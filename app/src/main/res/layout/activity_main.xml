@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#b9d6dada"
+    android:background="#f8f2f5f5"
 
     tools:context="com.uthoo.www.ocr.MainActivity">
 
